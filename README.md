@@ -1,7 +1,12 @@
 <div align="center">
 
-<h3><code>meeraloy@github
+<br>
 
+ A museum of my projects 
+
+<br><br>
+<h3><code>meeraloy@github
+<h4><reem loay mohamed ali eltayb>
 <pre>
 ██████╗ ███████╗███████╗███╗   ███╗
 ██╔══██╗██╔════╝██╔════╝████╗ ████║
@@ -10,7 +15,7 @@
 ██║  ██║███████╗███████╗██║ ╚═╝ ██║
 ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝     ╚═╝
 
-           R E E M   L O A Y
+     
 </pre>
 
 <br><br>
@@ -22,16 +27,11 @@
 │  university  Universiti Teknologi Malaysia   │
 │                                              |
 │                                              |
-│                                              │   
+ │                                              │   
 │                                              │
 └──────────────────────────────────────────────┘
 </pre>
 
-<br>
-
-a museum of my projects 
-
-<br><br>
 
 <pre>
 meeraloy@github
