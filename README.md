@@ -1,26 +1,42 @@
 <div align="center">
 
-<h3><code>meeraloy@github
-
-<h3>Hi, I'm Reem Loay 👋</h3>
-
-<p>
-Mechatronics student at Universiti Teknologi Malaysia<br>
-Exploring Embedded AI, Computer Vision, and Robotics
-</p>
+<h3><code>meeraloy@github:~$ ./whoami</code></h3>
 
 <pre>
-Now       → Building projects with Python and computer vision
-Project   → Body movement and gesture-based keyboard control
-Tools     → Python · OpenCV · MediaPipe
-Goal      → Connect intelligent software with physical systems
+██████╗ ███████╗███████╗███╗   ███╗
+██╔══██╗██╔════╝██╔════╝████╗ ████║
+██████╔╝█████╗  █████╗  ██╔████╔██║
+██╔══██╗██╔══╝  ██╔══╝  ██║╚██╔╝██║
+██║  ██║███████╗███████╗██║ ╚═╝ ██║
+╚═╝  ╚═╝╚══════╝╚══════╝╚═╝     ╚═╝
+
+           R E E M   L O A Y
 </pre>
 
-<h3><code>meeraloy@github ~ $ ls projects/</code></h3>
+<code>MECHATRONICS / COMPUTER VISION / ROBOTICS</code>
 
-<p>
-🎥 Turning body movements into keyboard commands<br>
-🤖 Learning through hands-on engineering projects
-</p>
+<br><br>
+
+<pre>
+┌─ reem@meeraloy ──────────────────────────────┐
+│                                              │
+│  identity    Mechatronics student            │
+│  university  Universiti Teknologi Malaysia   │
+│                                              |
+│                                              |
+│                                              │   
+│                                              │
+└──────────────────────────────────────────────┘
+</pre>
+
+<br>
+
+<code>“Somewhere between hardware and intelligence.”</code>
+
+<br><br>
+
+<pre>
+meeraloy@github:~$ _
+</pre>
 
 </div>
