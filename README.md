@@ -29,12 +29,12 @@
 
 <br>
 
-<code>“Somewhere between hardware and intelligence.”</code>
+a museum of my projects 
 
 <br><br>
 
 <pre>
-meeraloy@github:~$ _
+meeraloy@github:
 </pre>
 
 </div>
