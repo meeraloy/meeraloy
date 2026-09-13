@@ -34,7 +34,7 @@ a museum of my projects
 <br><br>
 
 <pre>
-meeraloy@github:
+meeraloy@github
 </pre>
 
 </div>
