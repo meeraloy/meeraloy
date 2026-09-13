@@ -27,7 +27,7 @@
 │  university  Universiti Teknologi Malaysia   │
 │                                              |
 │                                              |
- │                                              │   
+│                                              │   
 │                                              │
 └──────────────────────────────────────────────┘
 </pre>
