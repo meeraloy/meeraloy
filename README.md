@@ -13,8 +13,6 @@
            R E E M   L O A Y
 </pre>
 
-<code>MECHATRONICS / COMPUTER VISION / ROBOTICS</code>
-
 <br><br>
 
 <pre>
