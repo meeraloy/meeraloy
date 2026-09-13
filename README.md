@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3><code>meeraloy@github ~ $ whoami</code></h3>
+<h3><code>meeraloy@github
 
 <h3>Hi, I'm Reem Loay 👋</h3>
 
